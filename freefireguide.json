@@ -1,0 +1,730 @@
+{
+    "FACEBOOK_INTERSTITIAL":"3665284606890100_0066923843392916",
+	"FACEBOOK_NATIVEBANNER":"3665284606890100_0066896806728953",
+	"FACEBOOK_NATIVE":"3665284606890100_0066898286728805",
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
+
+
+
+
+    "BTNSHEIGHT":200,
+    
+    "MORESHOW":"true",
+    "URL_SPLASHBTN":"https://appstoremobile.com/Guides/freefire/assets/btn1.webp",
+    
+    
+    
+    "URL_BTN1":"https://github.com/Maaid92/Assets/raw/main/b_1.webp",
+	"URL_BTN2":"https://github.com/Maaid92/Assets/raw/main/b_2.webp",
+	"URL_BTN3":"https://github.com/Maaid92/Assets/raw/main/b_3.webp",
+	"URL_BTN4":"https://github.com/Maaid92/Assets/raw/main/b_4.webp",
+	"URL_BTN5":"https://github.com/Maaid92/Assets/raw/main/b_5.webp",
+	"URL_BTN6":"https://github.com/Maaid92/Assets/raw/main/b_5.webp",
+	
+	
+		"BG_IMG":"https://cdn.wallpapersafari.com/56/31/9lDd6N.jpg",
+	
+	
+	"BTN1_SHOW":"false",
+	"BTN1_NAME":"free fire hack App",
+	"BTN1_LINK":"https://cadeauforu.com/Guides/Freefire/home.htm",
+	
+	
+	"BTN2_SHOW":"false",
+	"BTN3_SHOW":"false",
+	"BTN4_SHOW":"false",
+	"BTN5_SHOW":"false",
+	"BTN6_SHOW":"false",
+
+
+    "TextBTN":"Start",
+	
+	
+
+
+	"GR1RVIMGWIDTH":900,
+	"GR1RVIMGHEIGHT":600,
+     "group1":[         
+					
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha001.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c01.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha002.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c02.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha003.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c03.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha004.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c04.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha005.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c05.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha006.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c06.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha007.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c07.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha008.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c08.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha009.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c09.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha010.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c10.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha011.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c11.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha012.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c12.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha013.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c13.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha014.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c14.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha015.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c15.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha016.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c16.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha017.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c17.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha018.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c18.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha019.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c19.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha020.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c20.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha021.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c21.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha022.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c22.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha023.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c23.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha024.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c24.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha025.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c25.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha026.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c26.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha027.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c27.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha028.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c28.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha029.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c29.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha030.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c30.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha031.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c31.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha032.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c32.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/cha033.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/c33.htm",
+						"name":""
+					}
+					
+					
+					
+	],
+    "GR2RVIMGWIDTH":500,
+	"GR2RVIMGHEIGHT":500,
+	"group2":[
+	    
+	                {
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea01.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w01.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea02.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w02.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea03.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w03.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea04.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w04.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea05.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w05.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea06.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w06.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea07.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w07.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea08.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w08.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea09.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w09.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea10.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w10.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea11.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w11.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea12.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w12.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea13.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w13.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea14.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w14.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea15.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w15.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea16.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w16.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea17.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w17.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea18.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w18.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea19.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w19.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea20.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w20.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea21.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w21.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea22.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w22.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea23.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w23.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea24.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w24.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea25.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w25.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea26.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w26.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea27.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w27.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea28.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w28.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea29.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w29.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea30.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w30.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea31.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w31.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea32.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w32.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea33.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w33.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea34.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w34.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea35.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w35.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea36.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w36.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea37.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w37.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea38.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w38.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea39.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w39.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea40.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w40.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea41.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w41.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea42.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w42.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea43.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w43.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea44.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w44.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea45.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w45.htm",
+						"name":""
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/wea46.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/w46.htm",
+						"name":""
+					}
+			
+					
+					
+					
+	],
+    "GR3RVIMGWIDTH":500,
+	"GR3RVIMGHEIGHT":500,
+	"group3":[
+					
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v01.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v01.htm",
+						"name":"Ambhibian"
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v02.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v02.htm",
+						"name":"Jeep"
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v03.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v03.htm",
+						"name":"Monster-Car"
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v04.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v04.htm",
+						"name":"Moto"
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v05.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v05.htm",
+						"name":"Sport-Car"
+					},
+					{
+						"picture":"https://github.com/Maaid92/freefireassets/raw/main/v06.webp",
+						"link":"https://cadeauforu.com/Guides/Freefire/v06.htm",
+						"name":"Tuk-Tuk"
+					}
+	],
+	"GR4RVIMGWIDTH":500,
+	"GR4RVIMGHEIGHT":500,
+	"group4":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/jMEIMD0-maI0HRI0Tl5Y3aZmw8GBhXL9nvdR4MbJEvHb4yrL15PO5VlWkp9SKMwmbw=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.free.fire.diamond.guide",
+						"name":"⚡sakora for free⚡"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/RQ_UDijSibGES5wg8_RKNjQ03amtark5DH2xkkrpIOX631_8nM9awA5EzJ4OotQrW0du=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.generator.stylish.change.name.nickname.free.fire&showAllReviews=true",
+						"name":"✍🏻Nickname Generator✍🏻"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/p_8p6cBgQIpenhy0-d49b9BKG56T7tJckBBKSkAWMvolaGdgxkxXmi3bUxoTxOiOUJPB=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.free.fire.generator.top.name.diamond",
+						"name":"❤️Nickname Generator❤️"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/37B2Np414iSSoF-_tPw3eqfi4u3OADmCu7W1GmwlmYwIYDuIj-IaoC1uMRkzOAFHUsE=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nameGeneratorbinga",
+						"name":"👑NickFinder Nickname👑"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/y7XRJ75XWrXNChT1pbTYW5fVdez8IqrPnw8c4eyhTm7lwtTJ9As84gpk6kgxsiURjxmx=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.dololow.nicksfreeapps",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/OU__K8yQEhFqGM-2-fMAu4AM2pMKRgQLhysM_4ItDUQlKwe0WXqVOIKUjJ87QiskqA8=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cCKE2yzX5D2YVx-qVNnm7NHkhsTfll3wlIXts-UDTEoORLR7HmaSjsQ4ss3nM-FIqIE7=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nayastudio.tipsFreeFire&hl=fr&gl=US",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/znFv1olKPZifmQL8JiCh1uihwNyU6qDm02r3P98FB-b-ZoqcpSKIvbGq1ZQJR8XB159z=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥+90000 diamond🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/2n4hKNNF1BXHg8sAJHz3q6wwdpX-JwgngXK-d-wZ4o12bZvK29_sWqfdKND59SljUpM=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎free diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/ZxizcpUeWIocyjLALsMDTc7dAqcZZA5ZgpaWqzSFRV1p3w9mnTc4w8VKK4Zay5Z0fipE=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P3iiE-HNq2Z7KsVz7qQPrrL8SbZS7YGU_Q7YvRLch9bOEDL71EB1LYngXM22WfrLnHQ=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/z63CQioqA0Lv7u0pljaeqdGobj8ThBPdrou4k0cQAJcWolp_jt9s7ADr1jQdVn-vbR1V=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P_mDy4WX2ntYSUuD52ItbRBEDiqr0gkcr8ISGzDPsf8HSxIpMaqQnxN9ZQ4UPctC3DkY=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cfN-U8ULtUt8iCWr8rKAsfC-73IZCCHUd8prAzgofJMR_45ch1vVKl8yKkdwlb02Jfs=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎+10000 diamond💎"
+					}
+	],
+	
+	"group5":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/jMEIMD0-maI0HRI0Tl5Y3aZmw8GBhXL9nvdR4MbJEvHb4yrL15PO5VlWkp9SKMwmbw=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.free.fire.diamond.guide",
+						"name":"⚡sakora for free⚡"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/RQ_UDijSibGES5wg8_RKNjQ03amtark5DH2xkkrpIOX631_8nM9awA5EzJ4OotQrW0du=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.generator.stylish.change.name.nickname.free.fire&showAllReviews=true",
+						"name":"✍🏻Nickname Generator✍🏻"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/p_8p6cBgQIpenhy0-d49b9BKG56T7tJckBBKSkAWMvolaGdgxkxXmi3bUxoTxOiOUJPB=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.free.fire.generator.top.name.diamond",
+						"name":"❤️Nickname Generator❤️"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/37B2Np414iSSoF-_tPw3eqfi4u3OADmCu7W1GmwlmYwIYDuIj-IaoC1uMRkzOAFHUsE=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nameGeneratorbinga",
+						"name":"👑NickFinder Nickname👑"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/y7XRJ75XWrXNChT1pbTYW5fVdez8IqrPnw8c4eyhTm7lwtTJ9As84gpk6kgxsiURjxmx=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.dololow.nicksfreeapps",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/OU__K8yQEhFqGM-2-fMAu4AM2pMKRgQLhysM_4ItDUQlKwe0WXqVOIKUjJ87QiskqA8=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cCKE2yzX5D2YVx-qVNnm7NHkhsTfll3wlIXts-UDTEoORLR7HmaSjsQ4ss3nM-FIqIE7=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nayastudio.tipsFreeFire&hl=fr&gl=US",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/znFv1olKPZifmQL8JiCh1uihwNyU6qDm02r3P98FB-b-ZoqcpSKIvbGq1ZQJR8XB159z=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥+90000 diamond🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/2n4hKNNF1BXHg8sAJHz3q6wwdpX-JwgngXK-d-wZ4o12bZvK29_sWqfdKND59SljUpM=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎free diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/ZxizcpUeWIocyjLALsMDTc7dAqcZZA5ZgpaWqzSFRV1p3w9mnTc4w8VKK4Zay5Z0fipE=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P3iiE-HNq2Z7KsVz7qQPrrL8SbZS7YGU_Q7YvRLch9bOEDL71EB1LYngXM22WfrLnHQ=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/z63CQioqA0Lv7u0pljaeqdGobj8ThBPdrou4k0cQAJcWolp_jt9s7ADr1jQdVn-vbR1V=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P_mDy4WX2ntYSUuD52ItbRBEDiqr0gkcr8ISGzDPsf8HSxIpMaqQnxN9ZQ4UPctC3DkY=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cfN-U8ULtUt8iCWr8rKAsfC-73IZCCHUd8prAzgofJMR_45ch1vVKl8yKkdwlb02Jfs=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎+10000 diamond💎"
+					}
+	],
+	"more_apps":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/jMEIMD0-maI0HRI0Tl5Y3aZmw8GBhXL9nvdR4MbJEvHb4yrL15PO5VlWkp9SKMwmbw=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.free.fire.diamond.guide",
+						"name":"⚡sakora for free⚡"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/RQ_UDijSibGES5wg8_RKNjQ03amtark5DH2xkkrpIOX631_8nM9awA5EzJ4OotQrW0du=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.generator.stylish.change.name.nickname.free.fire&showAllReviews=true",
+						"name":"✍🏻Nickname Generator✍🏻"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/p_8p6cBgQIpenhy0-d49b9BKG56T7tJckBBKSkAWMvolaGdgxkxXmi3bUxoTxOiOUJPB=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.free.fire.generator.top.name.diamond",
+						"name":"❤️Nickname Generator❤️"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/37B2Np414iSSoF-_tPw3eqfi4u3OADmCu7W1GmwlmYwIYDuIj-IaoC1uMRkzOAFHUsE=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nameGeneratorbinga",
+						"name":"👑NickFinder Nickname👑"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/y7XRJ75XWrXNChT1pbTYW5fVdez8IqrPnw8c4eyhTm7lwtTJ9As84gpk6kgxsiURjxmx=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.dololow.nicksfreeapps",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/OU__K8yQEhFqGM-2-fMAu4AM2pMKRgQLhysM_4ItDUQlKwe0WXqVOIKUjJ87QiskqA8=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cCKE2yzX5D2YVx-qVNnm7NHkhsTfll3wlIXts-UDTEoORLR7HmaSjsQ4ss3nM-FIqIE7=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nayastudio.tipsFreeFire&hl=fr&gl=US",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/znFv1olKPZifmQL8JiCh1uihwNyU6qDm02r3P98FB-b-ZoqcpSKIvbGq1ZQJR8XB159z=s180-rw",
+						"link":"https://smrturl.co/67fd088",
+						"name":"🔥+90000 diamond🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/2n4hKNNF1BXHg8sAJHz3q6wwdpX-JwgngXK-d-wZ4o12bZvK29_sWqfdKND59SljUpM=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎free diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/ZxizcpUeWIocyjLALsMDTc7dAqcZZA5ZgpaWqzSFRV1p3w9mnTc4w8VKK4Zay5Z0fipE=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P3iiE-HNq2Z7KsVz7qQPrrL8SbZS7YGU_Q7YvRLch9bOEDL71EB1LYngXM22WfrLnHQ=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/z63CQioqA0Lv7u0pljaeqdGobj8ThBPdrou4k0cQAJcWolp_jt9s7ADr1jQdVn-vbR1V=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P_mDy4WX2ntYSUuD52ItbRBEDiqr0gkcr8ISGzDPsf8HSxIpMaqQnxN9ZQ4UPctC3DkY=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cfN-U8ULtUt8iCWr8rKAsfC-73IZCCHUd8prAzgofJMR_45ch1vVKl8yKkdwlb02Jfs=s180-rw",
+						"link":"https://smrturl.co/67fd088",
+						"name":"💎+10000 diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/p_8p6cBgQIpenhy0-d49b9BKG56T7tJckBBKSkAWMvolaGdgxkxXmi3bUxoTxOiOUJPB=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.free.fire.generator.top.name.diamond",
+						"name":"❤️Nickname Generator❤️"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/37B2Np414iSSoF-_tPw3eqfi4u3OADmCu7W1GmwlmYwIYDuIj-IaoC1uMRkzOAFHUsE=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nameGeneratorbinga",
+						"name":"👑NickFinder Nickname👑"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/y7XRJ75XWrXNChT1pbTYW5fVdez8IqrPnw8c4eyhTm7lwtTJ9As84gpk6kgxsiURjxmx=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.dololow.nicksfreeapps",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/OU__K8yQEhFqGM-2-fMAu4AM2pMKRgQLhysM_4ItDUQlKwe0WXqVOIKUjJ87QiskqA8=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cCKE2yzX5D2YVx-qVNnm7NHkhsTfll3wlIXts-UDTEoORLR7HmaSjsQ4ss3nM-FIqIE7=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nayastudio.tipsFreeFire&hl=fr&gl=US",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/znFv1olKPZifmQL8JiCh1uihwNyU6qDm02r3P98FB-b-ZoqcpSKIvbGq1ZQJR8XB159z=s180-rw",
+						"link":"https://smrturl.co/67fd088",
+						"name":"🔥+90000 diamond🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/2n4hKNNF1BXHg8sAJHz3q6wwdpX-JwgngXK-d-wZ4o12bZvK29_sWqfdKND59SljUpM=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎free diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/ZxizcpUeWIocyjLALsMDTc7dAqcZZA5ZgpaWqzSFRV1p3w9mnTc4w8VKK4Zay5Z0fipE=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"🌹change Nickname🌹"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P3iiE-HNq2Z7KsVz7qQPrrL8SbZS7YGU_Q7YvRLch9bOEDL71EB1LYngXM22WfrLnHQ=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/z63CQioqA0Lv7u0pljaeqdGobj8ThBPdrou4k0cQAJcWolp_jt9s7ADr1jQdVn-vbR1V=s180-rw",
+						"link":"https://cpbild.co/5c4fb36",
+						"name":"💎Unlimited Diamond💎"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/P_mDy4WX2ntYSUuD52ItbRBEDiqr0gkcr8ISGzDPsf8HSxIpMaqQnxN9ZQ4UPctC3DkY=s180-rw",
+						"link":"https://dwnlds.co/cf14b07",
+						"name":"🔥Unlimited Diamonds🔥"
+					},{
+						"picture":"https://play-lh.googleusercontent.com/cfN-U8ULtUt8iCWr8rKAsfC-73IZCCHUd8prAzgofJMR_45ch1vVKl8yKkdwlb02Jfs=s180-rw",
+						"link":"https://smrturl.co/67fd088",
+						"name":"💎+10000 diamond💎"
+					}
+					
+				
+	]
+        
+       
+
+
+}
